@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263066576978",
+    "firebase_url": "https://mural-362bc.firebaseio.com",
+    "project_id": "mural-362bc",
+    "storage_bucket": "mural-362bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263066576978:android:fcde20accdc91b4f",
+        "android_client_info": {
+          "package_name": "com.danilopeixoto.mural"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263066576978-j0f0rvbijp25oqqnfg04qev6f9a5oemv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danilopeixoto.mural",
+            "certificate_hash": "243883542ee1bb0d17a3499c30943cb69114b486"
+          }
+        },
+        {
+          "client_id": "263066576978-8qqf64krsparkqee4cqpnh9u5hmjlqml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzFTYaQQqHyhuwtrMUYqNt1std5r8Nrdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263066576978-8qqf64krsparkqee4cqpnh9u5hmjlqml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
